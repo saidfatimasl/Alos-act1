@@ -1,0 +1,70 @@
+{
+    "livre": [
+        {
+            "id": 46,
+            "name":"livre",
+            "code_livre": 95,
+            "titre": "Direct Program Assistant",
+            "auteur": "Viola Turcotte",
+            "ISBN": 28,
+            
+            "ID_editeur": 0,
+            "ID_auteur": 0,
+            "ID_emprunt": 0
+        },
+        {
+            "id": 38,
+            "name":"livre",
+            "code_livre": 84,
+            "titre": "Global Paradigm Producer",
+            "auteur": "Patsy King",
+            "ISBN": 68,
+            
+            "ID_editeur": 90,
+            "ID_auteur": 53,
+            "ID_emprunt": 35
+        },
+        {
+            "id": 21,
+            "name":"livre",
+            "code_livre": 21,
+            "titre": "Legacy Metrics Developer",
+            "auteur": "Dustin Feil",
+            "ISBN": 62,
+            "ID_categorielivre": 174,
+            "ID_editeur": 159,
+            "ID_auteur": 144,
+            "ID_emprunt": 73
+        },
+        {
+            "id": 93,
+            "name":"livre",
+            "code_livre": 91,
+            "titre": "Lead Data Facilitator",
+            "auteur": "Mario Hegmann",
+            "ISBN": 98,
+            
+            "ID_editeur": 160,
+            "ID_auteur": 209,
+            "ID_emprunt": 148
+        },
+        {
+            "id": 40,
+            "name":"livre",
+            "code_livre": 50,
+            "titre": "Chief Infrastructure Officer",
+            "auteur": "Claire Armstrong",
+            "ISBN": 10,
+            
+            "ID_editeur": 219,
+            "ID_auteur": 261,
+            "ID_emprunt": 238
+        }
+    ],
+}
+    
+    
+   
+    
+
+    

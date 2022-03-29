@@ -1,0 +1,39 @@
+{
+"lecteur": [
+    {
+        "id": 0,
+        "code_lecteur": 69,
+        "nom": "Sara",
+        "telephone": "627-361-1941",
+        "email": "Ida.Marquardt71@hotmail.com"
+    },
+    {
+        "id": 73,
+        "code_lecteur": 24,
+        "nom": "Patsy",
+        "telephone": "529-629-1898",
+        "email": "Pasquale23@hotmail.com"
+    },
+    {
+        "id": 167,
+        "code_lecteur": 69,
+        "nom": "Lorene",
+        "telephone": "337-662-6746",
+        "email": "Gillian_Volkman88@gmail.com"
+    },
+    {
+        "id": 237,
+        "code_lecteur": 1,
+        "nom": "Sammy",
+        "telephone": "670-972-5307",
+        "email": "Laurianne96@yahoo.com"
+    },
+    {
+        "id": 266,
+        "code_lecteur": 79,
+        "nom": "Ismael",
+        "telephone": "841-914-5065",
+        "email": "Doyle48@yahoo.com"
+    }
+]
+}

@@ -1,0 +1,30 @@
+
+{
+    "auteur": [
+    {
+        "id": 0,
+        "nom_auteur": "Michele Walsh",
+        "annee": "2021-09-16"
+    },
+    {
+        "id": 48,
+        "nom_auteur": "Marlene Schoen",
+        "annee": "2022-01-25"
+    },
+    {
+        "id": 75,
+        "nom_auteur": "Jeanne Schoen",
+        "annee": "2021-11-19"
+    },
+    {
+        "id": 143,
+        "nom_auteur": "Hector Beier",
+        "annee": "2022-01-27"
+    },
+    {
+        "id": 209,
+        "nom_auteur": "Jacob Kozey",
+        "annee": "2021-08-02"
+  }
+]
+}
